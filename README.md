@@ -2,8 +2,8 @@
 
 ## Clones
  - [ ] Airbnb
- - [ ] Netflix
- - [ ] Facebook
+ - [x] Netflix
+ - [x] Facebook
  - [ ] Messenger
  - [ ] Instagram
  - [ ] WhatsApp
