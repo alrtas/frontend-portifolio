@@ -9,4 +9,4 @@
  - [ ] WhatsApp
  - [ ] Youtube
  - [ ] Twitter
- - [ ] Spotify
+ - [x] Spotify
